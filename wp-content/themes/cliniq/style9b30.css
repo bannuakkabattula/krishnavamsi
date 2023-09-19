@@ -1942,9 +1942,10 @@ body.btMenuShape_round.btMenuHorizontal.btBelowMenu:not(.btStickyHeaderOpen):not
     float: right;
     }
 .bt-logo-area .logo img {
-    height: 80px;
+    height: 50px;
     width: auto;
     display: block;
+    padding-top: 20px;
     }
 .btMenuVertical .bt-logo-area .logo img {
     height: 54px;
