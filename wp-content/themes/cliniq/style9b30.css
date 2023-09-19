@@ -1942,13 +1942,13 @@ body.btMenuShape_round.btMenuHorizontal.btBelowMenu:not(.btStickyHeaderOpen):not
     float: right;
     }
 .bt-logo-area .logo img {
-    height: 50px;
+    height: 55px !important;
     width: auto;
     display: block;
     padding-top: 20px;
     }
 .btMenuVertical .bt-logo-area .logo img {
-    height: 54px;
+    height: 54px !important;
     }
 .btMenuCenter .bt-logo-area .logo img {
     margin: auto;
@@ -3450,7 +3450,9 @@ body.btBelowMenu.btMenuHorizontal.btAlternateLightHeader .mainHeader.gutter {
     }
 .btStickyHeaderActive.btMenuHorizontal .mainHeader .bt-logo-area .logo img,
 .btStickyHeaderActive.btMenuFullScreenCenter .mainHeader .bt-logo-area .logo img {
-    height: 65px;
+    height: 55px !important;
+    padding-top: 10px;
+    padding-bottom: 10px;
     }
 .btStickyHeaderActive.btMenuHorizontal .mainHeader .bt-logo-area .btTextLogo,
 .btStickyHeaderActive.btMenuFullScreenCenter .mainHeader .bt-logo-area .btTextLogo {
