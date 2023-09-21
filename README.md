@@ -1,2 +1,0 @@
-# krishnavamsi
-portfolio website
