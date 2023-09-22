@@ -4891,6 +4891,9 @@ h4 a:hover{
 
 .image_block_4 .image-box .image img{
   width: 100%;
+  filter: drop-shadow(2px 4px 6px gray);
+  width: 100%;
+  border-radius: 43px;
 }
 
 .image_block_4 .image-box .text{
