@@ -4511,6 +4511,7 @@ h4 a:hover{
   display: block;
   overflow: hidden;
   border-radius: 20px;
+  max-height: 190px;
 }
 
 .service-block-two .inner-box .image-box img{
@@ -4904,7 +4905,7 @@ h4 a:hover{
   width: 170px;
   height: 170px;
   text-align: center;
-  border-radius: 50px;
+  border-radius: 100px;
   background-blend-mode: multiply;
   padding: 32px 0px;
 }
@@ -5064,7 +5065,7 @@ h4 a:hover{
   position: relative;
   display: block;
   background: #fff;
-  border-radius: 50px;
+  border-radius: 0px;
   padding: 50px 30px 52px 30px;
   margin-bottom: 30px;
   overflow: hidden;
