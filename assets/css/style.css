@@ -694,7 +694,7 @@ img {
 
 .main-header .logo-box{
   position: relative;
-  padding: 29px 145px 34px 0px;
+  padding: 40px 145px 34px 0px;
 }
 
 .main-header .logo-box .bg-color{
@@ -709,7 +709,7 @@ img {
 
 .main-header .logo-box .logo{
   position: relative;
-  max-width: 240px;
+  max-width: 340px;
   width: 100%;
 }
 
@@ -9489,4 +9489,32 @@ h4 a:hover{
   display: none !important;
 }
 
+}
+.left-clicks{
+  gap: 15px;
+}
+.qualification:hover{
+color: #22b6af;
+}
+
+.profile-image{
+  flex-shrink: 0;
+}
+.profile-image img{
+  border-radius: 100%;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border: 5px solid #22b6af;
+  padding: 5px;
+  flex-shrink: 0;
+}
+.profile-image img:hover{
+  border-color:#519ff0;
+}
+.profileCard{
+  display: flex !important;
+ flex-direction: row;
+ gap: 50px;
+ align-items: center;
 }
